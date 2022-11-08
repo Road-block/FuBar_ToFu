@@ -32,5 +32,6 @@ Libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
 
 ToFuLocals.lua
 ToFuLocals.koKR.lua
+ToFuLocals.ruRU.lua
 ToFu.lua
 ToFuDefaultTimes.lua
