@@ -292,7 +292,7 @@ function ToFu:TakeTaxiNode(slot)
 			end
 			if self.db.profile.hook.BigWigs and BigWigs and BigWigsCustomBar then
 				--BWCB(seconds, message)
-				BWLCB(self.timeAvg, "Flying to "..self:LessName(self.destination))
+				BWLCB(self.timeAvg, L["Flying to "]..self:LessName(self.destination))
 			end
 			if self.db.profile.hook.Chronometer and Chronometer then
 				-- Chronometer:AddTimer(kind, name, duration, targeted, isgain, selforselect, extra)

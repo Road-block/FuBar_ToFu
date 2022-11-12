@@ -30,6 +30,8 @@ L:RegisterTranslations("ruRU", function() return {
 	["Hooks"] = "Захват",
 	["Other addons to hook into"] = "Захват других аддонов для подключения",
 	
+	["Flying to "] = "Лечу в ",
+	
 	["estimated"] = "(расч)",
 	["reversed"] = "(обрт)",
 	["So Far"] = "Ещё далеко",

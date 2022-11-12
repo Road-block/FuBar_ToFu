@@ -30,6 +30,8 @@ L:RegisterTranslations("enUS", function() return {
 	["Hooks"] = true,
 	["Other addons to hook into"] = true,
 	
+	["Flying to "] = true,
+	
 	["estimated"] = "(est)",
 	["reversed"] = "(rev)",
 	["So Far"] = true,

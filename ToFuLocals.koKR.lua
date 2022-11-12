@@ -30,6 +30,8 @@ L:RegisterTranslations("koKR", function() return {
 	["Hooks"] = "외부모듈",
 	["Other addons to hook into"] = "외부 애드온을 이용합니다.",
 	
+	["Flying to "] = nil,
+	
 	["estimated"] = "(소요)",
 	["reversed"] = "(반대)",
 	["So Far"] = "이상",
